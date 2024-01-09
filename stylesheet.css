@@ -56,7 +56,7 @@ body {
   display: flex;
   margin: 0 0 0 27vw;
   list-style: none;
-  /*position: fixed;*/
+  position: fixed;
 }
 
 .topbutton li a {
@@ -71,7 +71,7 @@ body {
 }
 
 .topbutton li a {
-  position: fixed;
+  /*position: fixed;*/
 }
 
 .topbutton li.top a,
